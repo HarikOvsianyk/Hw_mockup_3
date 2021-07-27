@@ -1,0 +1,27 @@
+.container {
+  width: 80%;
+  margin: 0 auto; }
+
+.element {
+  margin-bottom: 50px; }
+  .element__div {
+    width: 350px;
+    height: 220px;
+    padding: 15px 10px 20px 10px;
+    border: 2px dotted red;
+    background: green; }
+
+.block__div {
+  width: 30%; }
+  .block__div .text {
+    text-align: justify; }
+  .block__div .html {
+    width: 200px;
+    margin: 0 10px 10px 0;
+    height: auto;
+    float: left; }
+  .block__div .css {
+    width: 150px;
+    margin: 10px 0 10px 10px;
+    height: auto;
+    float: right; }
